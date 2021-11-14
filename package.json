@@ -1,0 +1,23 @@
+{
+  "name": "@Vee",
+  "version": "1.0.0",
+  "description": "A Web Runtime for all Web Platform",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://veeui: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@github.com/vee-js/Vee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vee-js/Vee/issues"
+  },
+  "homepage": "https://github.com/vee-js/Vee#readme",
+  "devDependencies": {
+    "rollup": "^2.60.0"
+  }
+}
