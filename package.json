@@ -1,6 +1,6 @@
 {
-  "name": "@Vee",
-  "version": "1.0.0",
+  "name": "veejs",
+  "version": "1.0.1",
   "description": "A Web Runtime for all Web Platform",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://veeui: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@github.com/vee-js/Vee.git"
+    "url": "git+https://github.com/vee-js/Vee.git"
   },
   "keywords": [],
   "author": "",
